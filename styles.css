@@ -19,3 +19,7 @@ a {
 .parent-div {
     display: flex;
 }
+
+.footer {
+    background-color: gray;
+}
