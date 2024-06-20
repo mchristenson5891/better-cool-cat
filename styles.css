@@ -1,0 +1,21 @@
+/* selector {
+    property: value
+} */
+
+* {
+    border: 1px solid red;
+}
+
+
+a {
+    text-decoration: none;
+    color: dodgerblue;
+}
+
+#pink {
+    color: pink;
+}
+
+.parent-div {
+    display: flex;
+}
