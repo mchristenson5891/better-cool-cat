@@ -4,6 +4,7 @@
 
 * {
     border: 1px solid red;
+    background-color: bisque;
 }
 
 
@@ -22,4 +23,6 @@ a {
 
 .footer {
     background-color: gray;
+    color:aliceblue;
+    font-size: 18px;
 }
